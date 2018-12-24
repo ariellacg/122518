@@ -1,8 +1,8 @@
-baseurl                 = "/"               # Your domain name. Must end with "/"
+baseurl                 = "https://ariellacg.github.io/"               # Your domain name. Must end with "/"
 languageCode            = "en-us"
 defaultContentLanguage  = "en"
 isMultilingual          = false
-title                   = "Call me Sam"
+title                   = "Call me Ariella"
 theme                   = "sam"
 pygmentsStyle           = "monokai"                     # https://help.farbox.com/pygments.html
 pygmentsCodefences      = true
